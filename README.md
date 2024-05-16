@@ -1,6 +1,6 @@
 # CaptionCraft
 
-![CaptionCraft Logo](/path/to/logo.png)
+![CaptionCraft Logo](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/cropped-logo2.jpg)
 
 CaptionCraft is a transformative platform designed to revolutionize digital content creation. Integrating cutting-edge AI technologies, it offers a diverse array of tools to empower users across various domains to unleash their creativity in the digital realm.
 
@@ -33,6 +33,18 @@ Engage in dynamic conversations and receive personalized recommendations with Ca
 ## Screenshots
 ![Screenshot 1](/path/to/screenshot1.png)
 ![Screenshot 2](/path/to/screenshot2.png)
+![Screenshot 3](/path/to/screenshot1.png)
+![Screenshot 4](/path/to/screenshot1.png)
+![Screenshot 5](/path/to/screenshot1.png)
+![Screenshot 6](/path/to/screenshot1.png)
+![Screenshot 7](/path/to/screenshot1.png)
+![Screenshot 8](/path/to/screenshot1.png)
+![Screenshot 9](/path/to/screenshot1.png)
+![Screenshot 10](/path/to/screenshot1.png)
+![Screenshot 11](/path/to/screenshot1.png)
+![Screenshot 12](/path/to/screenshot1.png)
+![Screenshot 13](/path/to/screenshot1.png)
+![Screenshot 14](/path/to/screenshot1.png)
 
 ## Usage
 To use CaptionCraft, please contact the project owner to obtain the complete source code.
