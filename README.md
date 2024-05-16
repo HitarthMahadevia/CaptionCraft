@@ -48,5 +48,5 @@ Engage in dynamic conversations and receive personalized recommendations with Ca
 To use CaptionCraft, please contact the project owner to obtain the complete source code.
 
 ## Contact
-For inquiries and access to the source code, please contact Hitarth Hitn Mahadevia at mahadeviahitarthhiten@gmail.com.
+For inquiries and access to the source code, please contact Hitarth Hiten Mahadevia at mahadeviahitarthhiten@gmail.com.
 
