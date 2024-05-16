@@ -31,20 +31,18 @@ Unleash your creativity and explore new narratives with CaptionCraft's story gen
 Engage in dynamic conversations and receive personalized recommendations with CaptionCraft's AI-powered chatbot, CraftGenie. Whether you need inspiration, assistance, or feedback, CraftGenie is here to help.
 
 ## Screenshots
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
-![Screenshot 3](/path/to/screenshot1.png)
-![Screenshot 4](/path/to/screenshot1.png)
-![Screenshot 5](/path/to/screenshot1.png)
-![Screenshot 6](/path/to/screenshot1.png)
-![Screenshot 7](/path/to/screenshot1.png)
-![Screenshot 8](/path/to/screenshot1.png)
-![Screenshot 9](/path/to/screenshot1.png)
-![Screenshot 10](/path/to/screenshot1.png)
-![Screenshot 11](/path/to/screenshot1.png)
-![Screenshot 12](/path/to/screenshot1.png)
-![Screenshot 13](/path/to/screenshot1.png)
-![Screenshot 14](/path/to/screenshot1.png)
+
+![Screenshot 1](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/Home%20page.png)
+![Screenshot 2](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/Main%20Functionalities.png)
+![Screenshot 3](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/Reviews.png)
+![Screenshot 4](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/Image%20generator.png)
+![Screenshot 5](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/Caption%20Generator.png)
+![Screenshot 6](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/Image%20Colorization.png)
+![Screenshot 7](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/Image%20Super%20resolution.png)
+![Screenshot 8](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/Image%20Deblurring.png)
+![Screenshot 9](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/Remove%20BAckground.png)
+![Screenshot 10](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/Story%20Generator.png)
+![Screenshot 11](https://github.com/HitarthMahadevia/CaptionCraft/blob/main/CraftGEnie.png)
 
 ## Usage
 To use CaptionCraft, please contact the project owner to obtain the complete source code.
